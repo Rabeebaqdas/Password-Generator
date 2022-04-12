@@ -60,6 +60,9 @@ h2{
     padding: 8px 12px;
     cursor: pointer;
 }
+.btn:active{
+    transform: scale(0.90);
+}
 .btn-large {
     display: block;
     width: 100%;
